@@ -1,0 +1,3 @@
+-- Active: 1673294867357@@127.0.0.1@3306
+CREATE DATABASE test;
+ 
